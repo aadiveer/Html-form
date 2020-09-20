@@ -1,0 +1,70 @@
+h1 {
+
+color: green;
+
+text-align: center;
+font-size: 40px;
+
+
+}
+
+
+.name{
+
+  position: relative;
+  left: 523px;
+  width: 400px;
+  height: 79px;
+  top: 26px;
+  border: none;
+  font-size: 29px;
+
+}
+.namel{
+
+
+  position: relative;
+      top: 28px;
+      font-size: 50px;
+      right: 52px;
+      color: blueviolet;
+}
+body{
+background-color: #d9ecf2;
+
+}
+
+.email{
+  position: relative;
+  left: 399px;
+  width: 400px;
+  height: 79px;
+  top: 83px;
+  border: none;
+  font-size: 29px;
+
+}
+
+.emaill{
+  position: relative;
+  top: 92px;
+  font-size: 50px;
+  /* right: -168px; */
+color: blueviolet;
+  left: 360px;
+
+}
+
+.submit{
+
+  width: 359px;
+  height: 70px;
+  position: relative;
+  left: 554px;
+  background-color: #f56a79;
+  border: none;
+  top: 136px;
+  color: white;
+  font-size: 35px;
+
+}
